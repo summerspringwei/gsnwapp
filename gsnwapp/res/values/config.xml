@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ip_server">http://192.168.1.103:8080/TnServer/</string>
+    <string name="url_login">login_on.action</string>
+    <string name="url_regis">login_register.action</string>
+    <string name="mvc_login">login.action</string>
+    <string name="url_write_log">submit_log.action</string>
+</resources>

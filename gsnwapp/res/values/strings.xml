@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">山东银瑞</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="denglu">登录</string>
+    <string name="userid_null_notation">用户id不能为空！</string>
+    <string name="user_password_null_notation">密码不能为空！</string>
+    <string name="network_disconnect">网络未连接，请检查网络</string>
+    
+    <string name="write_log">写日志</string>
+    <string name="query_log">查看日志</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_failed">登录失败</string>
+    
+    <string name="prepare_work_not_null">计划工作不能为空！请填写！</string>
+    <string name="done_work_not_null">已完成工作不能为空！请填写！</string>
+    <string name="submit_log_success">提交日志成功</string>
+    <string name="submit_log_failed">提交日志失败</string>
+    
+    
+    <string name="zhuce">注册</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="name">用户名</string>
+    <string name="pswd">密码</string>
+    <string name="userid">职员编号：</string>
+    <string name="psd">职员姓名：</string>
+    <string name="dhhm">院校等级：</string>
+    <string name="pdagain">口令：</string>
+    <string name="mail">毕业院校：</string>
+    <string name="submit">提交</string>
+    <string name="xzbtn">新增</string>
+    <string name="qrmm">确认密码</string>
+    <string name="register_name_digits">._!,@。！，0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLIMNOPQRSTUVWXYZ</string>
+    <string name="refresh">刷新</string>
+    <string name="zyjb">职员级别：</string>
+    <string name="zyzw">职员职务：</string>
+    <string name="xmjl">项目经理：</string>
+    <string name="zy">专业：</string>
+    <string name="sf">身份标志：</string>
+    <string name="zc">职称：</string>
+    <string name="rzrq">入职日期：</string>
+    <string name="zzrq">转正日期：</string>
+    <string name="jdr">建档人：</string>
+    <string name="zjhm">证件号码：</string>
+    <string name="cwcs">错误次数：</string>
+    <string name="yxbz">有效标志：</string>
+    <string name="zjlb">证件类别：</string>
+    <string name="cjsj">创建时间：</string>
+    <string name="ygzh">员工账户：</string>
+<string name="title_activity_write_log">WriteLogActivity</string>
+
+    <string name="dailyRecord">日志</string>
+    <string name="prepareWork">今日计划工作</string>
+    <string name="doneWork">今日完成工作</string>
+    <string name="symbol">状态</string>
+    <string name="prompt_repareWord">必填，请输入文字</string>
+    <string name="save">保存</string>
+    <string name="state">状态:</string>
+    <string name="hours">小时</string>
+
+    <string-array name="log_states">
+        <item>公司</item>
+        <item>出差</item>
+        <item>病假</item>
+        <item>其他</item>
+    </string-array>
+
+    <string name="title_activity_log_list">LogList</string>
+</resources>
